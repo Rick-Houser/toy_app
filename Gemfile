@@ -50,5 +50,6 @@ group :production do
 
 	# Use rails_12factor for Heroku to serve static assets such as images and stylesheets.
 	gem 'rails_12factor', '0.0.2'
+	gem 'puma'
 end
 
